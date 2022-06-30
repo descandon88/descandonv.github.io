@@ -1,2 +1,2 @@
 # descandonv.github.io
-Web site
+Personal website that contains github repositories, homeworks, research and work
